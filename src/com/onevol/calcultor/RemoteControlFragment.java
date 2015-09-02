@@ -1,7 +1,9 @@
-package com.example.remotecontrol;
+package com.onevol.calcultor;
 
 
 import java.util.Arrays;
+
+import com.onevol.calcultor.R;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
